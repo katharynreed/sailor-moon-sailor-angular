@@ -1,0 +1,20 @@
+{
+  "name": "sailor-game",
+  "description": "A text-based choose your own adventure game with rewards for completing missions.",
+  "main": "",
+  "authors": [
+    "Katie Reed <katharynreedpierce@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
